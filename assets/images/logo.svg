@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" fill="none">
+  <!-- Geometric Prism Spectrum Emblem -->
+  <rect x="6" y="12" width="40" height="40" rx="8" fill="#0D182A"/>
+  <path d="M16 38L26 18L36 38Z" stroke="#0EA5AB" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="26" cy="30" r="3" fill="#6D3CC7"/>
+  <line x1="20" y1="42" x2="32" y2="42" stroke="#188A62" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="18" x2="26" y2="12" stroke="#C99518" stroke-width="2" stroke-linecap="round"/>
+  <!-- Wordmark -->
+  <text x="58" y="34" font-family="'Poppins', 'Inter', sans-serif" font-weight="700" font-size="19" letter-spacing="1.5" fill="#0D182A">CORE<tspan fill="#0EA5AB">16</tspan></text>
+  <text x="58" y="47" font-family="'Inter', sans-serif" font-weight="600" font-size="8.5" letter-spacing="2.8" fill="#66717D">PERSONALITIES</text>
+</svg>
